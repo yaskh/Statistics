@@ -27,7 +27,7 @@ zscores = list(map(lambda x : x/(std_x * std_y),zscore))
 
 # r = (1/(n-1)) * sum(zscores)
 r = (1/(n-1)) * sum(zscores)
-print(r)
+#print(r)
 
 
 
